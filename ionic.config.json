@@ -1,0 +1,8 @@
+{
+  "name": "NasaSpaceApps",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

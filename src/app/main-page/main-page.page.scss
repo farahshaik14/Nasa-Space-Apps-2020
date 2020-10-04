@@ -1,0 +1,28 @@
+
+ion-content {
+    --background: url("../../assets/images/menu.jpg") 0 0/100% 100% no-repeat;
+  
+  }
+  .title{
+    text-align: center;
+   font-family: 'Franklin Gothic Medium';
+   font-weight: 100;
+    font-size: 50px;
+    color: rgba(228, 174, 157, 0.952);
+  }
+ion-card{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    background: rgba(255,255,255,0.2);
+  }
+  .ion-icon{
+    height:30%;
+    
+  }
+  ion-grid{
+  
+    align-items: center;
+    justify-content: center;
+  }

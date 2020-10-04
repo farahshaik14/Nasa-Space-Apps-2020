@@ -1,0 +1,53 @@
+.picframe{
+    border: 3px solid rgba(66, 83, 141, 0.651); 
+    border-radius: 4px;  
+    padding: 3px;
+    background-color: white;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height:400px ;
+}
+
+ion-title{
+    text-align: center;
+    font-family:  Helvetica;
+   font-size: 50px;
+   font-weight: bold;
+     color:white;
+     background-color: black;
+   }
+
+
+   ion-label{
+    text-align: center;
+    align-self: center;
+    font-family:  Helvetica;
+    margin-left: 150px;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+   color: seashell;
+   font-style: italic;
+           width: inherit;
+   }
+
+ion-content{
+    --background: url("../../assets/images/positivity.jpg") 0 0/100% 100% no-repeat;
+}
+
+ion-label.mystery{
+
+    margin-left: 250px;
+    margin-right: 50px;
+    padding: 5px;
+    align-content: center
+}
+ion-label.txt{
+    text-align: center;
+    margin-left: 120px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    font-style: italic;
+}
